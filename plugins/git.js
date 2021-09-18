@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     
     
    
-  r_text[0] = "https://avatars.githubusercontent.com/u/85664936?v=4";
+  r_text[0] = "https://telegra.ph/file/ad4d2ee49c2fc94dfddaa.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -20,19 +20,19 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*ᴡʜɪᴛᴇ ᴅᴇᴠɪʟ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴋᴀʀᴛʜɪᴋ_ᴛᴇʀʀᴏʀ_ʙᴏʏ*
 
- *owner number wa.me/919778042644*
+ *owner number wa.me/917736936605*
  
 
- *ABOUT ME          _https://github.com/terror-boy_*
+ *ABOUT ME          _https://github.com/Ajnasajnas_*
  
  
  
- *Github link       _https://github.com/terror-boy/WhiteDevil_*
+ *Github link       _https://github.com/Ajnasajnas/ElsaMwol_*
  
  
  
 
- *Audio commads-1    _https://github.com/terror-boy/WhiteDevil/tree/master/uploads_*
+ *Audio commads-1    _https://github.com//tree/master/uploads_Ajnasajnas/ElsaMwol*
  
  
  
