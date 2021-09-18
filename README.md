@@ -5,7 +5,7 @@
 <a href="#"><img title="ElsaMwol" src="https://img.shields.io/badge/ElsaMwol-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Ajnasajnas"><img title="Author" src="https://img.shields.io/badge/Author-Ajnasajnas/ElsaMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Ajnasajnas"><img title="Author-Ajnad" src="https://img.shields.io/badge/Author-Ajnasajnas/ElsaMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
