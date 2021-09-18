@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     
     
    
-  r_text[0] = "https://telegra.ph/file/ad4d2ee49c2fc94dfddaa.jpg";
+  r_text[0] = "";
     
     
     var i = Math.floor(1*Math.random())
