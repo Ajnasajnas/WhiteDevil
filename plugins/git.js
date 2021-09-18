@@ -36,12 +36,12 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
  
  
  
-  *Audio commads-2    _https://github.com/terror-boy/WhiteDevil/tree/master/upload_*
+  *Audio commads-2    _https://github.com/Ajnasajnas/ElsaMwol/tree/master/upload_*
   
   
  
 
- *Sticker commads  _https://github.com/terror-boy/WhiteDevil/tree/master/stickers_*
+ *Sticker commads  _https://github.com/Ajnasajnas/ElsaMwol/tree/master/stickers_*
 `}) 
 
 })); 
