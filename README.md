@@ -19,8 +19,8 @@ Project created by <a href="https://github.com/Ajnasajnas">𝘼 𝙅 𝙉 𝘼 �
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Ajnasajnas/ElsaMwol">
-    <img src="https://img.shields.io/github/repo-size/Ajnasajnas/ElsaMwol?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/terror-boy/WhiteDevil">
+    <img src="https://img.shields.io/github/repo-size/terror-boy/WhiteDevil?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/terror-boy/followers"><img title="Followers" src="https://img.shields.io/github/followers/terror-boy?color=blue&style=flat-square"></a>
 <a href="https://github.com/terror-boy/WhiteDevil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
