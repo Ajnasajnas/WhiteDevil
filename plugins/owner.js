@@ -19,9 +19,9 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: ` *ᴡʜɪᴛᴇ ᴅᴇᴠɪʟ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴋᴀʀᴛʜɪᴋ_ᴛᴇʀʀᴏʀ_ʙᴏʏ*
-*owner number wa.me/919778042644*
+*owner number wa.me/917736936605*
 
- *ABOUT ME          _https://github.com/terror-boy_*
+ *ABOUT ME          _https://github.com/Ajnasajnas_*
 `}) 
 
 }));
