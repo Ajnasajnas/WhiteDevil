@@ -1,14 +1,14 @@
 {
-    "name": "WhiteDevil",
-    "description": "WhiteDevil- Whatsapp UserBot",
-    "logo": "https://i.imgur.com/kB30S41.png",
+    "name": "ElsaMwol",
+    "description": "ElsaMwol- Whatsapp UserBot",
+    "logo": "https://telegra.ph/file/ad4d2ee49c2fc94dfddaa.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/terror-boy/WhiteDevil",
+    "repository": "https://github.com/Ajnasajnas/ElsaMwol",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "ELSA_SESSION": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
             "required": true
         },
