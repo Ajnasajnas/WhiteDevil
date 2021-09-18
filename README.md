@@ -20,12 +20,12 @@ Project created by <a href="https://github.com/Ajnasajnas">𝘼 𝙅 𝙉 𝘼 �
 
   <p align="center">
   <a href="httsp://github.com/Ajnasajnas/ElsaMwol">
-    <img src="https://img.shields.io/github/repo-size/terror-boy/WhiteDevil?color=green&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/Ajnasajnas/ElsaMwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/terror-boy/followers"><img title="Followers" src="https://img.shields.io/github/followers/terror-boy?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/network/members"><img title="Forks" src="https://img.shields.io/github/forks/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/terror-boy/WhiteDevil?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Ajnasajnas/followers"><img title="Followers" src="https://img.shields.io/github/followers/terror-boy?color=blue&style=flat-square"></a>
+<a href="https://github.com/Ajnasajnas/ElsaMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ajnasajnas/ElsaMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/Ajnasajnas/ElsaMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ajnasajnas/ElsaMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/Ajnasajnas/ElsaMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/terror-boy/WhiteDevil?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -33,7 +33,7 @@ Project created by <a href="https://github.com/Ajnasajnas">𝘼 𝙅 𝙉 𝘼 �
 Click WA logo to Join Support Group 👇👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/KDT4Q5F4zq99ubruR5T9k1)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/EKVj4VNByQkAIzapCt8qLl)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil&theme=nightowl)](https://github.com/terror-boy/WhiteDevil)
