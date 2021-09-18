@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/525403727a7f90ed9fc08.jpg " width="300" height="300"/>
+  <img border-radius: 15px src="https://telegra.ph/file/525403727a7f90ed9fc08.jpg" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title="ElsaMwol" src="https://img.shields.io/badge/ElsaMwol-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
