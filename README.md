@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/Ajnasajnas">𝘼 𝙅 𝙉 𝘼 �
 <a href="https://github.com/Ajnasajnas/followers"><img title="Followers" src="https://img.shields.io/github/followers/terror-boy?color=blue&style=flat-square"></a>
 <a href="https://github.com/Ajnasajnas/ElsaMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ajnasajnas/ElsaMwol?color=blue&style=flat-square"></a>
 <a href="https://github.com/Ajnasajnas/ElsaMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ajnasajnas/ElsaMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/Ajnasajnas/ElsaMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/terror-boy/WhiteDevil?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Ajnasajnas/ElsaMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ajnasajnas/ElsaMwol?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/EKVj4VNByQkAIzapCt8qLl)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil&theme=nightowl)](https://github.com/terror-boy/WhiteDevil)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajnasajnas&repo=ElsaMwol&theme=nightowl)](https://github.com/Ajnasajnas/ElsaMwol)
   </div>
     
 ## Setup
